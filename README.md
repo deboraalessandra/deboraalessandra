@@ -1,4 +1,10 @@
-## Oiii eu sou a Débora!
+## Oiii eu sou a Débora! Iniciei meus estudos na área de Sistemas de Informação em 2018, entrando no mercado de trabalho como suporte técnico em 2019. Considero-me particularmente uma entusiasta em programação. Por conta disso, no meu tempo livre sempre tento aprimorar minhas técnicas nesta área fazendo cursos online e projetos pessoais. Sou aberta a críticas e sempre busco trazer o máximo de benefícios para o meu time e ao projeto. Busco sempre me atualizar com novas tecnologias que aparecem diariamente.
+
+Atualmente trabalho com:
+- Frontend: Angular Framework (HTML, CSS, SCSS, TypeScript);
+- Controle de Versionamento: Git; 
+- IDEs: VS e VS Code;
+- Ágile: Devops e Scrum.
 
 <div align="center">
   <a href="https://github.com/deboraalessandra">
